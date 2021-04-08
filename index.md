@@ -8,7 +8,7 @@
 + name: maryam
 + last name : ghanad
 + Date of birth : 1973/september/19
-+ I am a Master Of Computer Engineering 
++ I am a Master Of Computer Engineering student 
 + location : Tehran , I.R.Iran
 
 
