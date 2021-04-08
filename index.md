@@ -1,30 +1,33 @@
 
-### Anahita Taheri
+### maryam ghanad
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: maryam
++ last name : ghanad
++ Date of birth : 1973/september/19
++ I am a Master Of Computer Engineering 
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ C++ programming
++ web designing
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
+
++ Bachelor of science :hardware computer engineering
+_ isfahan University Of Technology
+   1370-1374
++ Advanced Certificate in Information Technology(Networked Desktop Specialist)
+  at NIIT Hmedan Center
 
 ### language
 
@@ -35,16 +38,13 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
+
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
-
++ I was teacher in University College Of Omran and Tosseeh Hamedan
++ 1380 -1393 
 
 
 
